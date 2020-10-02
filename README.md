@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Tejsingh Dhaosriya
 
 Hi, I'm Tejsingh  software engineer who loves to create technology that elevates others .
 
