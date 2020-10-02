@@ -18,14 +18,10 @@ Here are some ideas to get you started:
 
 Hi, I'm Tejsingh  software engineer who loves to create technology that elevates others .
 
-## Currently
-- 🌱&nbsp; Building my personal website
-- 🚧&nbsp; Finishing up a project in WordPress / PHP
-
 ## Find me around the web
 
-- [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
-- [Dev.to](https://dev.to/jeannienguyen)
+- [LinkedIn](https://www.linkedin.com/in/tejsingh-dhaosriya-4b19b5156/)
+
 
 ## A few projects
 
