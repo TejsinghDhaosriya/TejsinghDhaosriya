@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Jeannie Nguyen
+
+Hi, I'm Tejsingh  software engineer who loves to create technology that elevates others .
+
+## Currently
+- 🌱&nbsp; Building my personal website
+- 🚧&nbsp; Finishing up a project in WordPress / PHP
+
+## Find me around the web
+
+- [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
+- [Dev.to](https://dev.to/jeannienguyen)
+
+## A few projects
+
+- [Change the Bias]#Digital Healthcare [HTML, CSS, JS + Django + MapMyIndia]
+-[Change the Bias] #Road Accident Detection and Prevention [HTML, CSS, JS + Django + Tensorflow+Kerass]
+
+
+ 📫 How to reach me: drop a mail to tejsinghdhaosriya@gmail.com
+
+
