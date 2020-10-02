@@ -26,7 +26,7 @@ Hi, I'm Tejsingh  software engineer who loves to create technology that elevates
 ## A few projects
 
 - [Change the Bias]#Digital Healthcare [HTML, CSS, JS + Django + MapMyIndia]
--[Change the Bias] #Road Accident Detection and Prevention [HTML, CSS, JS + Django + Tensorflow+Keras]
+-[Change the Bias] #Road Accident Detection and Prevention [HTML, CSS, JS ,Django ,Tensorflow+Keras]
 
 
  📫 How to reach me: drop a mail to tejsinghdhaosriya@gmail.com
