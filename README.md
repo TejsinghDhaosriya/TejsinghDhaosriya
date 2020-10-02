@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Jeannie Nguyen
+# Tejsingh Dhaosriya
 
 Hi, I'm Tejsingh  software engineer who loves to create technology that elevates others .
 
