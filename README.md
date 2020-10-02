@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Tejsingh  software engineer who loves to create technology that elevates others .
+I'm software engineer who loves to create technology that elevates others .
 
 ## Find me around the web
 
@@ -24,7 +24,7 @@ Hi, I'm Tejsingh  software engineer who loves to create technology that elevates
 
 ## A few projects
 
-- [Change the Bias]#Digital Healthcare [HTML, CSS, JS + Django + MapMyIndia]
+- [Change the Bias]#Digital Healthcare [HTML, CSS, JS , Django , MapMyIndia]
 -[Change the Bias] #Road Accident Detection and Prevention [HTML, CSS, JS ,Django ,Tensorflow+Keras]
 
 
