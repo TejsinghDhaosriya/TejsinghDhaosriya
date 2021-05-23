@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=TejsinghDhaosriya)
 
 -->
 
@@ -25,7 +24,7 @@ I'm software engineer who loves to create technology that elevates others .
 - [GitLab](https://gitlab.com/TejsinghDhaosriya)
 - [Stackoverflow](https://stackoverflow.com/users/11650868/tejsingh)
 - [Portfolio](https://tejsinghdhaosriya.com/)
-
+-   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=TejsinghDhaosriya)
 
 ## A few projects
 
