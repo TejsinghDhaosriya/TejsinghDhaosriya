@@ -32,6 +32,5 @@ I'm software engineer who loves to create technology that elevates others .
 -#Road Accident Detection and Prevention [HTML, CSS, JS ,Django ,Tensorflow+Keras]
 
 
- 📫 How to reach me: drop a mail to tejsinghdhaosriya2@gmail.com
 
 
