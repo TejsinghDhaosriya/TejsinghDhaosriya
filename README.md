@@ -21,7 +21,6 @@ I'm software engineer who loves to create technology that elevates others .
 ## Find me around the web
 
 - [LinkedIn](https://www.linkedin.com/in/tejsingh-dhaosriya-4b19b5156/)
-- [GitLab](https://gitlab.com/TejsinghDhaosriya)
 - [Stackoverflow](https://stackoverflow.com/users/11650868/tejsingh)
 - [Portfolio](https://tejsinghdhaosriya.com/)
 -   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=TejsinghDhaosriya)
