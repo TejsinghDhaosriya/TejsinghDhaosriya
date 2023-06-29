@@ -18,16 +18,18 @@ Here are some ideas to get you started:
 
 I'm software engineer who loves to create technology that elevates others .
 
+<!--
 ## Find me around the web
 
 - [LinkedIn](https://www.linkedin.com/in/tejsingh-dhaosriya-4b19b5156/)
 - [Stackoverflow](https://stackoverflow.com/users/11650868/tejsingh)
 -   ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=TejsinghDhaosriya)
-
+-->
 ## A few projects
 
 -#Digital Healthcare [HTML, CSS, JS , Django , MapMyIndia]
 -#Road Accident Detection and Prevention [HTML, CSS, JS ,Django ,Tensorflow+Keras]
+
 
 
 
